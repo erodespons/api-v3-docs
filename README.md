@@ -8,7 +8,7 @@ To contribute to the documentation please fork this repo, make your changes and 
 Documentation is on [parts folder](https://github.com/teambox/api-v3-docs/tree/master/parts). You just need to change the apropiate markdown file
 
 ## Rendering the documentation
-1. Install [node](http://nodejs.org/) if not installed.
+1. Install <a href="http://nodejs.org/" target="_blank">node</a> if not installed.
 2. Install [Gulp](http://gulpjs.com/) `npm install --global gulp`
 3. Fork this repo
 4. Once forked and cloned go to root folder and run: `npm install`
